@@ -25,3 +25,16 @@
 - VPN Gateway
 - Route Tables
 - Network Performance Monitoring
+
+## Advanced Azure Networking
+
+- Virtual WAN
+- Virtual Hub
+- ExpressRoute
+- VNet Peering
+- User Defined Routes (UDRs)
+- Azure Route Server
+- Azure Firewall
+- Network Watcher
+- Private Endpoints
+- Hybrid Connectivity
